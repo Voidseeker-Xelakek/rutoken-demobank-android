@@ -1,5 +1,5 @@
 [Russian/Русский](README_RUS.md)
-НЕ ЗАБУДЬТЕ ПРОЧИТАТЬ read1.me
+НЕ ЗАБУДЬТЕ ПРОЧИТАТЬ read1.me/ DON'T FORGET TO READ read1.me
 ## Description
 
 Rutoken DemoBank is a demo application which shows typical usage scenarios of security tokens 
